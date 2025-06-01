@@ -19,13 +19,6 @@ responsive-navbar/
 index.html	# Main HTML file
 style.css		# All styling: light/dark mode, responsiveness, animations script.js	# JS for interactivity (scroll, toggle, mobile menu)
 
-Preview
-
- 
-
- 
-
- 
 
 How to Use
 
