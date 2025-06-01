@@ -20,12 +20,20 @@ index.html	# Main HTML file
 style.css		# All styling: light/dark mode, responsiveness, animations script.js	# JS for interactivity (scroll, toggle, mobile menu)
 
 
+
+Preview
+![image](https://github.com/user-attachments/assets/efde1d0e-f981-4ede-b6ef-40954b1a081a)
+![image](https://github.com/user-attachments/assets/d1d453b7-9050-4fdc-93bf-fb14a0a36422)
+![image](https://github.com/user-attachments/assets/43af6a2b-248d-442c-999b-90c4f254a867)
+
+
 How to Use
 
 Clone or download this repository:
 
 
-git clone https://github.com/SimranGur9335/PRODIGY_WD_01
+git clone https://github.com/SimranGur9335/PRODIGY_WD_01.git
+
 
 
 Open index.html in your browser.
